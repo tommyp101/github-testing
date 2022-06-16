@@ -1,5 +1,5 @@
 Open an existing project and initialize repository under source control.
 Push changes from the menu bar under source control.
 When making any changes and saving, it will show changes in the source control tab.
-Name the change with a small description.
+Name the change with a small description in the Message bar, press cmd + enter, then sync changes.
 Push and commit changes to github.
